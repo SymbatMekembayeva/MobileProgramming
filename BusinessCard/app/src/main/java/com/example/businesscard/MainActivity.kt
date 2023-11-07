@@ -42,7 +42,7 @@ fun BusinessCard() {
         modifier = Modifier
             .fillMaxHeight()
             .fillMaxWidth()
-            .background(Color(0xFF3ddc84)),
+            .background(Color.Blue),
         horizontalAlignment = Alignment.CenterHorizontally,
         verticalArrangement = Arrangement.Center
     ) {
